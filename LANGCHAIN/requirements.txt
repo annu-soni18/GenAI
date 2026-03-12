@@ -1,0 +1,14 @@
+# Langchain core
+langchain
+langchain-core 
+langchain-ollama
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
